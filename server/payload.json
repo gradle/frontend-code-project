@@ -1,0 +1,186 @@
+{
+    "owners": [
+        {
+            "name": "afishlee0",
+            "repositories": [
+                {
+                    "name": "react",
+                    "languages": [
+                        "Scala",
+                        "C#"
+                    ]
+                },
+                {
+                    "name": "gem",
+                    "languages": [
+                        "R",
+                        "Pascal"
+                    ]
+                },
+                {
+                    "name": "graphiql",
+                    "languages": [
+                        "Scala"
+                    ]
+                },
+                {
+                    "name": "graphql",
+                    "languages": [
+                        "R",
+                        "Basic",
+                        "Pascal"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "kwenger5",
+            "repositories": [
+                {
+                    "name": "webpack",
+                    "languages": [
+                        "Scala"
+                    ]
+                },
+                {
+                    "name": "sinatra",
+                    "languages": [
+                        "C++"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "shonnan1",
+            "repositories": [
+                {
+                    "name": "angularjs",
+                    "languages": [
+                        "Scala"
+                    ]
+                },
+                {
+                    "name": "sinatra",
+                    "languages": [
+                        "C++"
+                    ]
+                },
+                {
+                    "name": "nextjs",
+                    "languages": [
+                        "JavaScript",
+                        "TypeScript",
+                        "C++"
+                    ]
+                },
+                {
+                    "name": "gatsbyjs",
+                    "languages": [
+                        "R",
+                        "C++"
+                    ]
+                },
+                {
+                    "name": "gradle",
+                    "languages": [
+                        "Pascal",
+                        "C#",
+                        "C++"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hmalicki6",
+            "repositories": [
+                {
+                    "name": "spring",
+                    "languages": [
+                        "TypeScript",
+                        "Kotlin"
+                    ]
+                },
+                {
+                    "name": "typescript",
+                    "languages": [
+                        "Pascal",
+                        "Kotlin",
+                        "Java"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mtheaker8",
+            "repositories": [
+                {
+                    "name": "vaadin",
+                    "languages": [
+                        "Cobol"
+                    ]
+                },
+                {
+                    "name": "vue",
+                    "languages": [
+                        "Basic"
+                    ]
+                },
+                {
+                    "name": "ratpack",
+                    "languages": [
+                        "R"
+                    ]
+                },
+                {
+                    "name": "django",
+                    "languages": [
+                        "Kotlin",
+                        "Cobol",
+                        "Scala"
+                    ]
+                },
+                {
+                    "name": "express",
+                    "languages": [
+                        "C#",
+                        "Pascal",
+                        "Kotlin"
+                    ]
+                },
+                {
+                    "name": "backbone",
+                    "languages": [
+                        "R",
+                        "Basic",
+                        "Cobol"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dgarz2",
+            "repositories": [
+                {
+                    "name": "node",
+                    "languages": [
+                        "C#",
+                        "R",
+                        "TypeScript"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "bmutton4",
+            "repositories": [
+                {
+                    "name": "junit",
+                    "languages": [
+                        "C++",
+                        "TypeScript"
+                    ]
+                }
+            ]
+        }
+    ]
+}
