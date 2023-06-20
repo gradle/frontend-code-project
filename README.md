@@ -6,7 +6,7 @@ This project aims to allow you to demonstrate your expertise and skills using in
 
 ## Installation instructions
 
-You are already provided with a scaffold, including a script to start up the application. 
+You are already provided with a scaffold, including a script to start up the application.
 
 We have used [create-react-app](https://create-react-app.dev/) for the scaffold, so you can benefit from hot module reloading out of the box. We also enforce the usage of a specific `node` and `npm` version. See [package.json](./package.json) engines section.
 
@@ -16,13 +16,13 @@ From the root of this project, start the application and navigate to [http://loc
 
 ## Implementation instructions
 
-Follow the detailed instructions in the PDF that have been provided to you via email.
+Follow the detailed instructions in the PDF that has been provided to you via email.
 
 ## Validation instructions
 
 Ensure the application is assembled and the automated test suites executed when running the following command:
 
-`npm install && npm run test`  <--- @Ami please check this command, I made it up :-)
+`npm install && npm run test`
 
 ## Evaluation criteria
 
