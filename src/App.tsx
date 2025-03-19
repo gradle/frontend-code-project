@@ -1,7 +1,10 @@
+import styles from './App.module.scss'
+
 function App() {
   return (
     <p>
-      Edit <code>src/App.tsx</code> and save to test HMR
+      Edit <code>src/App.tsx</code> and save to test{' '}
+      <span className={styles.example}>HMR</span>
     </p>
   )
 }
